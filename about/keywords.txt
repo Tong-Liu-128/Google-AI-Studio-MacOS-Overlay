@@ -1,0 +1,4 @@
+python3
+gemini
+google ai studio
+macos

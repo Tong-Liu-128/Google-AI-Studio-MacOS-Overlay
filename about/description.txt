@@ -1,0 +1,1 @@
+A simple macOS overlay application for pinning google ai studio to a dedicated window and allow hot key access.
